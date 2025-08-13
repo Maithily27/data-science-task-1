@@ -1,1 +1,2 @@
 # data-science-task-1
+In this task, I created visualizations to represent the distribution of population data using bar charts and histograms. The objective was to explore both categorical variables (e.g., gender) and continuous variables (e.g., age) to understand trends, patterns, and comparisons within the dataset. This involved data preprocessing with pandas, and visualization with Matplotlib and Seaborn, enabling clear and insightful representation of demographic information.
